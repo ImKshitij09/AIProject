@@ -4,6 +4,12 @@
 The goal of this project is to develop an end-to-end machine learning solution to predict total energy demand (load) based on historical energy generation, pricing, and temporal data. The solution will incorporate advanced feature engineering, model training, and evaluation, providing actionable business insights for stakeholders in the energy sector.
 
 ---
+## Business Question
+How can we improve the accuracy of energy demand forecasts to minimize mismatches with actual loads?
+How does the contribution of renewable energy vary across different demand levels?
+What are the key seasonal and daily trends in energy demand, and how can they inform energy supply planning?
+
+---
 
 ## Data Overview and Preprocessing
 
