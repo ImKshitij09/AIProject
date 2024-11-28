@@ -6,7 +6,9 @@ The goal of this project is to develop an end-to-end machine learning solution t
 ---
 ## Business Question
 How can we improve the accuracy of energy demand forecasts to minimize mismatches with actual loads?
+
 How does the contribution of renewable energy vary across different demand levels?
+
 What are the key seasonal and daily trends in energy demand, and how can they inform energy supply planning?
 
 ---
