@@ -72,5 +72,4 @@ if st.button("Predict Total Load"):
     else:
         st.error("Model or scaler not loaded. Please check your setup.")
 
-!pip install streamlit
 
